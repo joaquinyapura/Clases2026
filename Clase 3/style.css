@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section-1{
+
+    background-color: #320049;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+
+}
+
+
+.card{
+    width: 50px;
+    height: 50px;
+    background-color: #580181;
+}
+
+
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.links{
+    font-size: 10px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    background-color: aqua;
+}
+
+
+
+
+
+
+/* 
+
+CLASE 3 - 
+1_DESARROLLAR UN NAVBAR. IMITANDO CUALQUIERA QUE ENCUENTREN ONLINE. 
+SE DEBE UTILIZAR 2 LINKS EXTERNOS Y 2 LINKS INTERNOS. 
+SE DEBE UTILIZAR FLEXBOX. 
+NOTA: INVESTIGAR COMO QUITAR LOS TEXTOS DECORATIVOS O SUBRAYADOS POR DEFAULT DE
+ETIQUETAS "A" 
+
+2_JUGAR A FLEXBOXFROGGY
+
+
+
+
+*/
