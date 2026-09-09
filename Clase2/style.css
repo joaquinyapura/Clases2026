@@ -28,3 +28,16 @@ body{
     width: 100px;
     border: solid red 10px;
 }
+
+.tj-1{
+border:  5px solid red;
+}
+
+.tj-2{
+    border:  5px solid blue;
+}
+
+
+.tj-3{
+    border:  5px solid purple;
+}
