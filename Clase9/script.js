@@ -58,8 +58,6 @@ if (edad>=18) {
 
 
 
-
-
     /* 
     Ejercicio 1
        1. Usar input para recibir el nombre de una persona
@@ -73,7 +71,7 @@ if (edad>=18) {
     Mercadopago tiene una tasa de interes  anual de  35%.  [NOMBRE y APELLIDO] decidió pagar este préstamo en 4 cuotas.- 
    1. Capturar el nombre y apellido del usuario. 
    2. Capturar el importe del préstamo
-   3. Calcular el costo de cada cuota. 
+   3. Calcular el costo de cada cuota contemplando la tasa de interes anual. 
    4. Mostrar por consola un resumen de toda la operación. 
     */
 
