@@ -56,3 +56,18 @@ Ejercicio 3.-
    3. Calcular el costo de cada cuota contemplando la tasa de interes anual. 
    4. Mostrar por consola un resumen de toda la operación. 
 */
+
+
+
+let importe = Number(prompt("ingrese el importe de su prestamo"));
+let cuotas = Number(prompt("ingrese la cantidad de cuotas"));
+let interesAnual = 0.35 
+let interesTotal = (interesAnual/12) * cuotas
+let cft = importe*interesTotal
+let cuotaFinal = importe + cft
+console.log(cuotaFinal);
+
+
+
+
+
